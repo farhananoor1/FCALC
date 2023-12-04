@@ -30,3 +30,14 @@ OSDA 2023 Lazy FCA
 |                 | Pattern Binary      |     1.0  |     1.0  |
 | Breast Cancer   | Binarized Binary    |     0.60 |     0.40 |
 |                 | Pattern Binary      |     0.66 |     0.44 |
+
+
+
+| Dataset         | Model               | Accuracy | F1 Score |
+|-----------------|---------------------|---------|----------|
+| Diabetes        | Binarized Binary    | 0.85    | 0.80     |
+|                 | Pattern Binary      | 0.88    | 0.82     |
+| Iris            | Binarized Binary    | 0.92    | 0.91     |
+|                 | Pattern Binary      | 0.94    | 0.93     |
+| Breast Cancer   | Binarized Binary    | 0.78    | 0.75     |
+|                 | Pattern Binary      | 0.82    | 0.79     |
