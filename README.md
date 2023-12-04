@@ -1,9 +1,9 @@
 # FCALC
 OSDA 2023 Lazy FCA
 
-### Dataset: Diabetes
-### Dataset: Iris
-### Dataset: Breast Cancer
+#### Dataset: Diabetes
+#### Dataset: Iris
+#### Dataset: Breast Cancer
 
 #### Models Used:
 - Binarized Binary Classification
@@ -20,20 +20,13 @@ OSDA 2023 Lazy FCA
 - Accuracy
 - F1 Score
 
-- ### Dataset: Diabetes
 
-#### Evaluation Metrics:
-- Accuracy
-- F1 Score
 
-### Dataset: Iris
-
-#### Evaluation Metrics:
-- Accuracy
-- F1 Score
-
-### Dataset: Breast Cancer
-
-#### Evaluation Metrics:
-- Accuracy
-- F1 Score
+- | Dataset         | Model               | Accuracy | F1 Score |
+|-----------------|---------------------|---------:|---------:|
+| Diabetes        | Binarized Binary    |     0.59 |     0.45 |
+|                 | Pattern Binary      |     0.62 |     0.45 |
+| Iris            | Binarized Binary    |          |          |
+|                 | Pattern Binary      |     1.0  |     1.0  |
+| Breast Cancer   | Binarized Binary    |     0.60 |     0.40 |
+|                 | Pattern Binary      |     0.66 |     0.44 |
